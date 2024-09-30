@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Taufeeq!
-**Drifting throught the waves of web dev, with a little bit of everything**
+**Drifting throught the waves of fullstack devlopment, with a little bit of everything**
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=FF0000)
