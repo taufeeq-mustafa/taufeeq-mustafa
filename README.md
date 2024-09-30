@@ -1,5 +1,5 @@
-# 👋 Hey there, I'm Ashton!
-**Architect of the digital unknown. Navigating the shadows of the web, crafting echoes in the void.**
+# 👋 Hey there, I'm Taufeeq!
+**Drifting throught the waves of web dev, with a little bt of everything**
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=FF0000)
