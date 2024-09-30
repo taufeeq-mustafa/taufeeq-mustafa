@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Taufeeq!
-**Drifting throught the waves of web dev, with a little bt of everything**
+**Drifting throught the waves of web dev, with a little bit of everything**
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=FF0000)
@@ -9,10 +9,10 @@
 
 
 
-With a deep passion for **Customer Experience, Fintech, InfoSec,** and **AI-driven technologies**. I specialize in turning complex challenges into scalable, innovative solutions.
+With a deep passion for **Customer Experience, AI models, InfoSec,** and **AI-driven technologies**. I specialize in turning complex challenges into innovative solutions.
 
-- 🔭 Currently working on top-secret projects to reshape industries.
-- 🌱 Always expanding my knowledge and contributing to open-source communities.
+- 🔭 Currently working on FFYP to provide much needed relief of depressed introverts.
+- 🌱 Always expanding my knowledge and willing to contribute to open source projects.
 - 🚀 On a mission to push the boundaries of what's possible with code.
 
 
