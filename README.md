@@ -20,6 +20,7 @@ With a deep passion for **Customer Experience, AI models, InfoSec,** and **AI-dr
 
 [![Linkedin Badge](https://img.shields.io/badge/-ShanuMishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/s-taufeeq-mustafa-281a13221)](https:www.linkedin.com/in/s-taufeeq-mustafa-281a13221)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mishra.shanu15@gmail.com)](mailto:mishra.shanu15@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ShanuMishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/shanu-mishra/)
 
 
 <!--
