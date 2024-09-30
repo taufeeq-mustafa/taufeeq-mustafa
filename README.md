@@ -11,7 +11,7 @@
 
 With a deep passion for **Customer Experience, AI models, InfoSec,** and **AI-driven technologies**. I specialize in turning complex challenges into innovative solutions.
 
-- 🔭 Currently working on FFYP to provide much needed relief of depressed introverts.
+- 🔭 Currently working on FYP to provide much needed relief to depressed introverts.
 - 🌱 Always expanding my knowledge and willing to contribute to open source projects.
 - 🚀 On a mission to push the boundaries of what's possible with code.
 
