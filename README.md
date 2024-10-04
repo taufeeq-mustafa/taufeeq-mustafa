@@ -17,6 +17,8 @@ With a deep passion for **Customer Experience, AI models, InfoSec,** and **AI-dr
 
 ###  📫 How to reach me:
 
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-Taufeeq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s-taufeeq-mustafa-281a13221/)](https://www.linkedin.com/in/s-taufeeq-mustafa-281a13221/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taufeeq.mustafa@gmail.com)](mailto:taufeeq.mustafa@gmail.com)
 
