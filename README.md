@@ -9,7 +9,7 @@
 
 
 
-With a deep passion for **Customer Experience, AI models, ** and **AI-driven technologies**. I specialize in turning complex challenges into innovative solutions.
+With a deep passion for **Customer Experience, AI models,** and **AI-driven technologies**. I specialize in turning complex challenges into innovative solutions.
 
 - 🔭 Currently working on FYP to provide much needed relief to depressed introverts.
 - 🌱 Always expanding my knowledge and willing to contribute to open source projects.
