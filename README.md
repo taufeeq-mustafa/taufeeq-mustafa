@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:taufeeq.mustafa@gmail.com"><img src="https://img.shields.io/badge/CONTACT-taufeeq.mustafa%40gmail.com-00E5FF?style=for-the-badge&labelColor=0D1117" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00E5FF?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117" /></a>
+  <a href="https://www.linkedin.com/in/syed-taufeeq-mustafa-281a13221/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00E5FF?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117" /></a>
   <img src="https://img.shields.io/badge/LOCATION-KARACHI%20%2F%20REMOTE-7C3AED?style=for-the-badge&labelColor=0D1117" />
 </p>
 
